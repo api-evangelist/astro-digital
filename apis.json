@@ -1,0 +1,66 @@
+{
+    "name": "Astro Digital",
+    "description": "Optimizing the way you bring information of the changing planet into your work.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20083-astro-digital.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "images",
+        "satellites"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/astro-digital\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Astro Digital",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20083-astro-digital.jpg",
+            "humanURL": "https:\/\/astrodigital.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/astro-digital-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/medium.com\/@astrodigital"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/medium.com\/feed\/@astrodigital"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/astro-digital"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/api.astrodigital.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/astrodigital"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.astrodigital.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/astrodigitalgeo"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/astrodigital.com"
+        }
+    ]
+}
